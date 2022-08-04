@@ -641,6 +641,11 @@ section {
   font-size: 6.3rem;
 }
 
+#text-contact {
+  font-size: 2rem;
+  margin-bottom: 2.5rem;
+}
+
 @media screen and (max-width: 800px) {
   header {
     padding: 0;
